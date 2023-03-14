@@ -1,0 +1,6 @@
+@inproceedings{REPO-013,
+    author = "Chen, Z. and Zhang, F. and Zhou, A. and Zhai, J. and Zhang, C. and Du, X.",
+    booktitle = "ICPP '20: 49th International Conference on Parallel Processing",
+    title = "{ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs}",
+    year = "2020"
+}
